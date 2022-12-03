@@ -1,0 +1,27 @@
+,Nintendo,Sega,LucasArts,505 Games,Capcom,Ubisoft,Electronic Arts,Microsoft Game Studios,Activision,Take-Two Interactive
+Nintendo,0,2,2,2,1,1,0,0,0,0
+Sega,2,0,2,2,0,1,0,0,0,0
+LucasArts,2,2,0,2,0,1,0,0,0,0
+505 Games,2,2,2,0,0,1,0,0,0,0
+Capcom,1,0,0,0,0,1,1,0,1,2
+Ubisoft,1,1,1,1,1,0,2,1,2,2
+Electronic Arts,0,0,0,0,1,2,0,2,4,3
+Microsoft Game Studios,0,0,0,0,0,1,2,0,2,1
+Activision,0,0,0,0,1,2,4,2,0,4
+Take-Two Interactive,0,0,0,0,2,2,3,1,4,0
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,Nintendo,Sega,LucasArts,505 Games,Capcom,Ubisoft,Microsoft Game Studios,Electronic Arts,Activision,Take-Two Interactive
+Nintendo,0,2,2,2,1,1,0,0,0,0
+Sega,2,0,2,2,0,1,0,0,0,0
+LucasArts,2,2,0,2,0,1,0,0,0,0
+505 Games,2,2,2,0,0,1,0,0,0,0
+Capcom,1,0,0,0,0,1,0,1,1,2
+Ubisoft,1,1,1,1,1,0,1,2,2,2
+Microsoft Game Studios,0,0,0,0,0,1,0,2,2,1
+Electronic Arts,0,0,0,0,1,2,2,0,4,3
+Activision,0,0,0,0,1,2,2,4,0,4
+Take-Two Interactive,0,0,0,0,2,2,1,3,4,0
