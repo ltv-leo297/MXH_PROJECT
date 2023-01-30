@@ -1,0 +1,91 @@
+source,target,weight
+Nintendo,Sega,2
+Nintendo,LucasArts,2
+Nintendo,505 Games,2
+Nintendo,Capcom,1
+Nintendo,Ubisoft,1
+Microsoft Game Studios,Electronic Arts,2
+Microsoft Game Studios,Activision,2
+Microsoft Game Studios,Take-Two Interactive,1
+Microsoft Game Studios,Bethesda Softworks,1
+Microsoft Game Studios,Warner Bros. Interactive Entertainment,1
+Microsoft Game Studios,Ubisoft,1
+Take-Two Interactive,Sony Computer Entertainment,1
+Take-Two Interactive,Electronic Arts,3
+Take-Two Interactive,Activision,4
+Take-Two Interactive,Square Enix,1
+Take-Two Interactive,Bethesda Softworks,3
+Take-Two Interactive,Warner Bros. Interactive Entertainment,2
+Take-Two Interactive,Konami Digital Entertainment,1
+Take-Two Interactive,Capcom,2
+Take-Two Interactive,Sony Computer Entertainment Europe,1
+Take-Two Interactive,Ubisoft,2
+Activision,Sony Computer Entertainment,2
+Activision,Virgin Interactive,1
+Activision,Square Enix,1
+Activision,Bethesda Softworks,3
+Activision,Warner Bros. Interactive Entertainment,2
+Activision,Konami Digital Entertainment,2
+Activision,Electronic Arts,4
+Activision,GT Interactive,1
+Activision,SquareSoft,1
+Activision,Eidos Interactive,1
+Activision,Capcom,1
+Activision,Sony Computer Entertainment Europe,1
+Activision,Ubisoft,2
+Sony Computer Entertainment,Electronic Arts,1
+Sony Computer Entertainment,Virgin Interactive,1
+Sony Computer Entertainment,GT Interactive,1
+Sony Computer Entertainment,SquareSoft,1
+Sony Computer Entertainment,Square Enix,1
+Sony Computer Entertainment,Bethesda Softworks,1
+Sony Computer Entertainment,Eidos Interactive,1
+Sony Computer Entertainment,Warner Bros. Interactive Entertainment,1
+Sony Computer Entertainment,Konami Digital Entertainment,2
+Sony Computer Entertainment,Capcom,1
+Sony Computer Entertainment,Sony Computer Entertainment Europe,1
+Sony Computer Entertainment,Ubisoft,1
+Ubisoft,Sega,1
+Ubisoft,LucasArts,1
+Ubisoft,505 Games,1
+Ubisoft,Square Enix,1
+Ubisoft,Bethesda Softworks,2
+Ubisoft,Warner Bros. Interactive Entertainment,2
+Ubisoft,Konami Digital Entertainment,1
+Ubisoft,Electronic Arts,2
+Ubisoft,Capcom,1
+Ubisoft,Sony Computer Entertainment Europe,1
+Bethesda Softworks,Electronic Arts,3
+Bethesda Softworks,Square Enix,1
+Bethesda Softworks,Warner Bros. Interactive Entertainment,2
+Bethesda Softworks,Konami Digital Entertainment,1
+Bethesda Softworks,Capcom,1
+Bethesda Softworks,Sony Computer Entertainment Europe,1
+Electronic Arts,Square Enix,1
+Electronic Arts,Warner Bros. Interactive Entertainment,2
+Electronic Arts,Konami Digital Entertainment,1
+Electronic Arts,Capcom,1
+Electronic Arts,Sony Computer Entertainment Europe,1
+Sega,505 Games,2
+Sega,LucasArts,2
+SquareSoft,Virgin Interactive,1
+SquareSoft,GT Interactive,1
+SquareSoft,Eidos Interactive,1
+SquareSoft,Konami Digital Entertainment,1
+505 Games,LucasArts,2
+Capcom,Square Enix,1
+Capcom,Warner Bros. Interactive Entertainment,1
+Capcom,Konami Digital Entertainment,1
+Capcom,Sony Computer Entertainment Europe,1
+GT Interactive,Virgin Interactive,1
+GT Interactive,Eidos Interactive,1
+GT Interactive,Konami Digital Entertainment,1
+Konami Digital Entertainment,Virgin Interactive,1
+Konami Digital Entertainment,Square Enix,1
+Konami Digital Entertainment,Eidos Interactive,1
+Konami Digital Entertainment,Warner Bros. Interactive Entertainment,1
+Konami Digital Entertainment,Sony Computer Entertainment Europe,1
+Sony Computer Entertainment Europe,Square Enix,1
+Sony Computer Entertainment Europe,Warner Bros. Interactive Entertainment,1
+Virgin Interactive,Eidos Interactive,1
+Warner Bros. Interactive Entertainment,Square Enix,1
